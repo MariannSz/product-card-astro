@@ -73,7 +73,10 @@ http://localhost:4321
 
 ## 📸 Screenshots
 
-(Add screenshots here)
+![Product cards on large screen](screenshots/product-cards-lg.png?raw=true "Product Cards - Large Screen")
+![Product cards on medium screen](screenshots/product-cards-md.png?raw=true "Product Cards - Medium Screen")
+![Product cards on small screen](screenshots/product-cards-sm.png?raw=true "Product Cards - Small Screen")
+![Product cards on mobile screen](screenshots/product-cards-mobile.png?raw=true "Product Cards - Mobile Screen")
 
 ---
 
