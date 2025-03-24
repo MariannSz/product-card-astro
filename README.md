@@ -22,8 +22,8 @@ The component is packaged as part of an Astro build - integration of Elm into an
 1. Clone the repo:
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/MariannSz/product-card-astro.git
+cd product-card-astro
 ```
 
 2. Install dependencies:
