@@ -1,0 +1,112 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Phone Case 1",
+      "priceRange": "€49 – €85",
+      "description": "A minimalist wallet and case for your iPhone",
+      "tag": "Bestseller",
+      "images": [
+        {
+          "color": "Black",
+          "front": "https://bellroy-product-images.imgix.net/bellroy_dot_com_range_page_image/EUR/PCYI-BLK-134/0",
+          "inside": "https://bellroy-product-images.imgix.net/bellroy_dot_com_range_page_explode_image/EUR/PCYI-BLK-134/0",
+          "hex": "#000000"
+        },
+        {
+          "color": "Green",
+          "front": "https://bellroy-product-images.imgix.net/bellroy_dot_com_range_page_image/EUR/PCYI-AGV-133/0",
+          "inside": "https://bellroy-product-images.imgix.net/bellroy_dot_com_range_page_explode_image/EUR/PCYI-AGV-133/0",
+          "hex": "#667977"
+        },
+        {
+          "color": "Orange",
+          "front": "https://bellroy-product-images.imgix.net/bellroy_dot_com_range_page_image/EUR/PCXI-TER-133/0",
+          "inside": "https://bellroy-product-images.imgix.net/bellroy_dot_com_range_page_explode_image/EUR/PCXI-TER-133/0",
+          "hex": "#a45421"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Wallet Phone Case",
+      "priceRange": "€35 – €65",
+      "description": "A minimalist wallet and case for your iPhone",
+      "tag": "Bestseller",
+      "images": [
+        {
+          "color": "Green",
+          "front": "https://bellroy-product-images.imgix.net/bellroy_dot_com_range_page_image/EUR/PMYH-AGV-133/0",
+          "inside": "https://bellroy-product-images.imgix.net/bellroy_dot_com_range_page_explode_image/EUR/PMYH-AGV-133/0",
+          "hex": "#607371"
+        },
+        {
+          "color": "Black",
+          "front": "https://bellroy-product-images.imgix.net/bellroy_dot_com_range_page_image/EUR/PMYH-BLK-134/0",
+          "inside": "https://bellroy-product-images.imgix.net/bellroy_dot_com_range_page_explode_image/EUR/PMYH-BLK-134/0",
+          "hex": "#000000"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Phone Case 3",
+      "priceRange": "€35 – €65",
+      "description": "Slim protection for your Apple iPhone",
+      "tag": "",
+      "images": [
+        {
+          "color": "Black",
+          "front": "https://bellroy-product-images.imgix.net/bellroy_dot_com_range_page_image/EUR/PCYI-BLK-134/0",
+          "inside": "https://bellroy-product-images.imgix.net/bellroy_dot_com_range_page_explode_image/EUR/PCYI-BLK-134/0",
+          "hex": "#000000"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Phone Case 4",
+      "priceRange": "€35 – €65",
+      "description": "Slim protection for your Apple iPhone",
+      "tag": "Bestseller",
+      "images": [
+        {
+          "color": "Black",
+          "front": "https://bellroy-product-images.imgix.net/bellroy_dot_com_range_page_image/EUR/PCYI-BLK-134/0",
+          "inside": "https://bellroy-product-images.imgix.net/bellroy_dot_com_range_page_explode_image/EUR/PCYI-BLK-134/0",
+          "hex": "#000000"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Phone Case 5",
+      "priceRange": "€35 – €65",
+      "description": "Slim protection for your Apple iPhone",
+      "tag": "",
+      "images": [
+        {
+          "color": "Black",
+          "front": "https://bellroy-product-images.imgix.net/bellroy_dot_com_range_page_image/EUR/PCYI-BLK-134/0",
+          "inside": "https://bellroy-product-images.imgix.net/bellroy_dot_com_range_page_explode_image/EUR/PCYI-BLK-134/0",
+          "hex": "#000000"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Phone Case 6",
+      "priceRange": "€35 – €65",
+      "description": "Slim protection for your Apple iPhone",
+      "tag": "",
+      "images": [
+        {
+          "color": "Black",
+          "front": "https://bellroy-product-images.imgix.net/bellroy_dot_com_range_page_image/EUR/PCYI-BLK-134/0",
+          "inside": "https://bellroy-product-images.imgix.net/bellroy_dot_com_range_page_explode_image/EUR/PCYI-BLK-134/0",
+          "hex": "#000000"
+        }
+      ]
+    }
+  ]
+}
